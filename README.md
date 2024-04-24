@@ -1,4 +1,4 @@
-### Hi there 👋
+### Computer Science student at University of Copenhagen :)
 
 <!--
 **XinmingDavidBai/XinmingDavidBai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
